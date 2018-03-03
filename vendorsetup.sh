@@ -25,3 +25,7 @@ add_lunch_combo omni_herolte-user
 add_lunch_combo rr_herolte-eng
 add_lunch_combo rr_herolte-userdebug
 add_lunch_combo rr_herolte-user
+
+add_lunch_combo du_herolte-eng
+add_lunch_combo du_herolte-userdebug
+add_lunch_combo du_herolte-user
